@@ -1,0 +1,11 @@
+.goodCharacter, .evil-character {
+  width: 200px;
+}
+
+.evil-character {
+  display: none;
+}
+
+.oponents {
+  background-color: wheat;
+}
